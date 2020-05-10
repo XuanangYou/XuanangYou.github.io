@@ -2,7 +2,7 @@
 <search>
   <entry>
     <title>十大经典排序算法整理汇总（附代码）</title>
-    <url>/2020/02/16/sort-algorithms/</url>
+    <url>/XuanangYou/2020/02/16/sort-algorithms/</url>
     <content><![CDATA[<h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p>本文整理并总结了十大经典的排序算法（冒泡排序、选择排序、插入排序、快速排序、归并排序、希尔排序、计数排序、基数排序、桶排序、堆排序）的时间复杂度、空间复杂度等性质。</p>
 <p><strong>本文并不会详细讲解每种排序算法的原理</strong>，网上有很多很好的教程，大家可以自己去搜了看。</p>
 <p>最后我还亲自手写了十种排序算法的 c++ 代码，大家可以用来通过 <a href="https://leetcode-cn.com/problems/sort-an-array/" target="_blank" rel="noopener" title="LeetCode 912. 排序数组">LeetCode 912. 排序数组</a> 这道题。</p>
@@ -140,7 +140,7 @@
   </entry>
   <entry>
     <title>Hello World</title>
-    <url>/2020/05/10/hello-world/</url>
+    <url>/XuanangYou/2020/05/10/hello-world/</url>
     <content><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p>
 <h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure>
 
